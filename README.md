@@ -19,5 +19,8 @@ CartMate is an innovative automated shopping solution designed to revolutionize 
 3. Items added are tracked using RFID.
 4. Real-time billing is displayed on the screen for user convenience.
 5. Wireless communication facilitates seamless interaction between components.
-   
+
+**IEEE Paper**
+This project has been published as a research paper in the IEEE conference proceedings, under the track "FUTURE MOBILITY IN INDUSTRIAL APPLICATIONS" highlighting its innovative approach to transforming the retail shopping experience using embedded systems and automation technologies.
+
 This methodology ensures a seamless shopping experience by integrating advanced technologies into an intelligent, user-friendly system.
