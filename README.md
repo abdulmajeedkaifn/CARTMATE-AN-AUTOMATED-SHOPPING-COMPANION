@@ -1,4 +1,4 @@
-# CARTMATE-AN-AUTOMATED-SHOPPING-COMPANION
+# CARTMATE: AN AUTOMATED SHOPPING COMPANION
 
 CartMate is an innovative automated shopping solution designed to revolutionize the traditional retail shopping experience. This project combines cutting-edge embedded technologies to create a seamless, efficient, and user-friendly system that reduces physical effort, minimizes checkout times, and enhances overall customer satisfaction.
 
